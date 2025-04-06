@@ -700,8 +700,8 @@ class _CommunityPageWidgetState extends State<CommunityPageWidget> {
                                                       borderRadius:
                                                           BorderRadius.circular(
                                                               8.0),
-                                                      child: Image.asset(
-                                                        'assets/images/istockphoto-1332100919-612x612.jpg',
+                                                      child: Image.network(
+                                                        'https://i.ibb.co/tpwWp0dX/image-7-removebg-preview.png',
                                                         width: 170.0,
                                                         height: 170.0,
                                                         fit: BoxFit.cover,
@@ -779,13 +779,6 @@ class _CommunityPageWidgetState extends State<CommunityPageWidget> {
                         ],
                       ),
                     ),
-                  ),
-                ),
-                Container(
-                  width: 364.3,
-                  height: 100.0,
-                  decoration: BoxDecoration(
-                    color: FlutterFlowTheme.of(context).secondaryBackground,
                   ),
                 ),
               ],
