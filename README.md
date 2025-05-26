@@ -1,5 +1,5 @@
 # Loan.ly  
-*A Decentralized Emergency Loan Platform for Underserved Communities*
+*Decentralized Microloans for the Underpriveleged*
 
 Loan.ly is a decentralized microloan platform designed to provide emergency financial support to individuals in underserved and unbanked communities. The project was built to promote **financial inclusion** by leveraging **decentralized architecture** and **community-driven trust mechanisms**.
 
