@@ -25,46 +25,15 @@ Loan.ly addresses this issue by offering a peer-to-peer microloan network that p
 
 ---
 
-## ⚙️ Tech Stack
-
-| Layer         | Technology            |
-|---------------|------------------------|
-| Frontend      | Flutter (Dart), Figma, Android Studio |
-| Backend       | Serverless Functions (Edge) |
-| Database      | PostgreSQL             |
-| Authentication | Supabase              |
-
----
-
 ## 🔑 Core Features
 
 - Decentralized architecture for security and transparency  
 - Community-based trust and referral system  
-- User-friendly mobile interface built with Flutter  
 - Secure authentication and authorization via Supabase  
 - Scalable backend using serverless functions  
 - Emergency loan workflows with quick disbursal
 
 ---
-
-## 🌍 Impact Goal
-
-Loan.ly aims to bridge the financial access gap by enabling emergency loans based on **trust**, **reputation**, and **community validation**—not just traditional credit metrics. It’s a tool for empowerment, designed with the needs of underserved communities in mind.
-
----
-
-## 👥 Contributors
-
-- **Samarth Asija**  
-- **Kriti Mohanty**  
-- **Kshitij Kumar**  
-- **Sreeram Chengaloor**
-
----
-
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
